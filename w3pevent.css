@@ -590,7 +590,6 @@ person-item:hover .table-custom th {
 	color: #999999;
 }
 #intro {
-		background-image: url(/img/bg.webp);
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-color: black;
